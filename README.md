@@ -10,6 +10,10 @@ Following Program Allows You To Do :<br>
 7.CLOSE AN ACCOUNT<br>
 8.VIEW ALL ACCOUNTS(ADMIN)<br>
 <b>Note :<b><br> 
-<b>Default Username : Shakti<b><br>
-<b>Password : shakti111<b><br>
-<b>You can change the credentials from the Funtctions.cpp(I Have Commented To Find It Easily)<b>
+<b>IDE Used : Turbo C++</b>
+<b>Default Username : Shakti</b><br>
+<b>Password : shakti111</b><br>
+<b>You can change the credentials from the Funtctions.cpp(I Have Commented To Find It Easily)</b><br>
+<b>Important :</b><br>
+<b>Please Change The Path Of Files Included In The Program Accordingly</b><br>
+<b>Some Header Files May Not Be Available In Your IDE.You Can Load Them</b>
